@@ -20,8 +20,6 @@ This project analyzes e-commerce customer behavior, revenue trends, and product 
 - Customer behavior analysis
 - Interactive dashboard with slicers
 
-## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
 
 ## Skills Demonstrated
 - SQL Joins
